@@ -165,9 +165,9 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/newbg1.gif") no-repeat center;
+    background: url("images/giphy\ \(2\).gif") no-repeat center;
     height: 100vh;
-    color: #fff;
+    color: #00f432;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
