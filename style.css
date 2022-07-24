@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/giphy\ \(2\).gif") no-repeat center;
+    background: url("images/H3aN_2.gif") no-repeat center;
     height: 100vh;
     color: #00f432;
     min-height: 500px;
@@ -209,8 +209,9 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: crimson;
+    color: rgb(9, 227, 60);
     background: none;
+    border: 2PX solid white;
 }
 
 /* about section styling */
